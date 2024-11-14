@@ -29,8 +29,7 @@ El script realiza las siguientes funciones:
 
 ## Instrucciones de Uso
 
-1. Ejecuta Update.exe como administrador.
-2. Ejecuta Xsis.exe como administrador.
-3. Introduce la clave de licencia cuando se te solicite.
-4. Mantén el script abierto para las optimizaciones.
+1. Ejecuta Xsis.exe como administrador.
+2. Introduce la clave de licencia cuando se te solicite.
+3. Mantén el script abierto para las optimizaciones.
 
