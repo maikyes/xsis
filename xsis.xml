@@ -100,7 +100,7 @@
   <SZMaxZone>10000</SZMaxZone>
   <SXAntiDeadZone>0</SXAntiDeadZone>
   <SZAntiDeadZone>0</SZAntiDeadZone>
-  <Sensitivity>1|1|1|1|1|1</Sensitivity>
+  <Sensitivity>1|1|5|5|1|1</Sensitivity>
   <ChargingType>0</ChargingType>
   <MouseAcceleration>False</MouseAcceleration>
   <ButtonMouseVerticalScale>100</ButtonMouseVerticalScale>
